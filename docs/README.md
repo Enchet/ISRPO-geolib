@@ -18,27 +18,27 @@ of various plane shapes
 # Functions
 ## circle.py
 - area(r) - returns the area of a circle with r radius
-'area(6)' returns ~113.097
+`area(6)` returns ~113.097
 - perimeter(r) - returns the circumference of a circle with r radius
-'perimeter(6)' returns ~37.699
+`perimeter(6)` returns ~37.699
 
 ## rectangle.py
 - area(a, b) - returns the area of a rectangle with sides of a and b
-'area(2, 3)' returns 6
+`area(2, 3)` returns 6
 - perimeter(a, b) - returns the perimeter of a rectangle with sides of a and b
-'perimeter(2, 3)' returns 10
+`perimeter(2, 3)` returns 10
 
 ## square.py
 - area(a) - returns the area of a square with a side of a
-'area(4)' returns 16
+`area(4)` returns 16
 - perimeter(a) - returns the perimeter of a square with a side of a
-'perimeter(2)' returns 8
+`perimeter(2)` returns 8
 
 ## triangle.py
 - area(a, h) - returns the area of a 90deg triangle with sides of a and h
-'area(5, 6)' returns 15
+`area(5, 6)` returns 15
 - perimeter(a, b, c) - returns the perimeter of a triangle with sides of a, b and c
-'perimeter(1, 2, 3)' returns 6
+`perimeter(1, 2, 3)` returns 6
 
 # Commit history
 - main
