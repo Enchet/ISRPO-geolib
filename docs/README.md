@@ -18,7 +18,10 @@ of various plane shapes
 # Functions
 ## circle.py
 - area(r) - returns the area of a circle with r radius
-`area(6)` returns ~113.097
+```python
+area(6)
+``` 
+returns ~113.097
 - perimeter(r) - returns the circumference of a circle with r radius
 `perimeter(6)` returns ~37.699
 
