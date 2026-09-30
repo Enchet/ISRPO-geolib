@@ -1,6 +1,6 @@
 def area(a):
     '''Принимает число a, возвращает площадь квадрата со стороной a'''
-    return a * a + 1
+    return a * a
 
 
 def perimeter(a):
